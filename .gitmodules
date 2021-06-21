@@ -2,3 +2,7 @@
 	path = spring2021-complex-sys/penguin_swarm
 	url = https://github.com/stegnerw/penguin_swarm.git
 	branch = main
+[submodule "spring2021-complex-sys/segregation_policy_model"]
+	path = spring2021-complex-sys/segregation_policy_model
+	url = https://github.com/stegnerw/segregation_policy_model.git
+	branch = main
