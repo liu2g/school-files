@@ -1,0 +1,4 @@
+numpy==1.19.1
+matplotlib==3.2.2
+pathlib==1.0.1
+tqdm==4.50.2
